@@ -1,0 +1,1 @@
+# The server only works with "postman" because on the client side I used this fake api https://jsonplaceholder.typicode.com
